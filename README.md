@@ -22,5 +22,3 @@ python snake_game.py
 Control the snake using arrow keys and try to eat as many apples as possible while avoiding the edges of the screen.
 
 ## Screenshots 📸
-![score](image.png)
-![game over](image-1.png)
